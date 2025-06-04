@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки фронта 1.md",
+                "file": "Заметки фронта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки фронта 1"
+              "title": "Заметки фронта"
             }
           }
         ],
@@ -185,7 +185,8 @@
   },
   "active": "67c6a45c15c2adea",
   "lastOpenFiles": [
+    "Pasted image 20250604183638.png",
     "CSS.md",
-    "Заметки фронта 1.md"
+    "Заметки фронта.md"
   ]
 }
