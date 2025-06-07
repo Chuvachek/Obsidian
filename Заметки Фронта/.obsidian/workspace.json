@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки фронта.md",
+                "file": "Гуманистический психолог.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки фронта"
+              "title": "Гуманистический психолог"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "ae7d94de0c8722a6",
   "lastOpenFiles": [
-    "Pasted image 20250604183638.png",
     "Заметки фронта.md",
+    "Pasted image 20250604183638.png",
     "Гуманистический психолог.md",
     "CSS.md"
   ]
