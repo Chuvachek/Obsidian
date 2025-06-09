@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Гуманистический психолог"
             }
+          },
+          {
+            "id": "2b676171589fcb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chevrolet Cruze I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chevrolet Cruze I"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,10 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae7d94de0c8722a6",
+  "active": "2b676171589fcb60",
   "lastOpenFiles": [
-    "Заметки фронта.md",
     "Гуманистический психолог.md",
+    "Chevrolet Cruze I.md",
+    "Заметки фронта.md",
     "Pasted image 20250604183638.png",
     "CSS.md"
   ]
